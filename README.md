@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @icedevil777
-- 👀 I’m interested in FPGA, Verilog, MatLab, Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me: Telegram 89204023055 icedevil777111@mail.ru
+- 👀 I’m interested in FPGA, Verilog, MatLab, Java, Python
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me: Telegram: @icedevil777 icedevil777111@mail.ru gregory.guliaev@yandex.ru
 
 <!---
 icedevil777/icedevil777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
