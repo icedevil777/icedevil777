@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @icedevil777
-- 👀 I’m interested Vue and Python
-- 🌱 I’m currently learning Python and Vue
-- 💞️ I’m looking to collaborate on Python and Vue
+- 👀 I’m interested Vue JS and Python DRF
+- 🌱 I’m currently learning Vue JS and Python DRF
+- 💞️ I’m looking to collaborate on Vue JS and Python DRF
 - 📫 How to reach me: Telegram: @icedevil777 icedevil777111@mail.ru gregory.guliaev@yandex.ru
 
 <!---
